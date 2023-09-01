@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.counter-app-box{
+  height:30vw ;
+  width: 50vw;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ margin:10% auto;
+ /* border: 1px solid black; */
+ box-shadow: 0 0 5px gray;
+ border-radius: 10px;
+ gap:40px;
+}
+
+.set-value{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+button{
+    padding: 10px 20px;
+    font-weight: bold;
+}
+#value{
+    border: 1px  solid black;
+    padding: 10px 20px;
+}

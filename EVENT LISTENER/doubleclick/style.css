@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #8585d7;
+}
+button{
+padding: 10px 20px;
+margin: 20% 40%;
+background-color: teal;
+color: azure;
+border: none;
+border-radius: 10px;
+font-size: 24px;
+}
